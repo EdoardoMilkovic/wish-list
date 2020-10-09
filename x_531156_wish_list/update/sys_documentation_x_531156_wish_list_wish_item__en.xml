@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Wish Item" language="en" table="x_531156_wish_list_wish_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Wish Item</label>
+            <language>en</language>
+            <name>x_531156_wish_list_wish_item</name>
+            <plural>Wish Items</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>edoardo.milkovic</sys_created_by>
+            <sys_created_on>2020-10-09 12:33:15</sys_created_on>
+            <sys_id>2f8e1a7c2fb31010c4e2c886f699b687</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wish Item</sys_name>
+            <sys_package display_value="Wish List" source="x_531156_wish_list">cbcbd2f02fb31010c4e2c886f699b606</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">cbcbd2f02fb31010c4e2c886f699b606</sys_scope>
+            <sys_update_name>sys_documentation_x_531156_wish_list_wish_item__en</sys_update_name>
+            <sys_updated_by>edoardo.milkovic</sys_updated_by>
+            <sys_updated_on>2020-10-09 12:33:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
